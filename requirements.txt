@@ -12,6 +12,6 @@ pypiwin32==223
 pywin32==223
 requests==2.19.1
 urllib3==1.26.5
-numpy==1.15.0
+numpy==1.22.0
 opencv-python==3.4.2.17
 watchdog
